@@ -1,13 +1,21 @@
-# Contributing to Indie Torrent projects
+# Contributing to indieTorrent projects
 
-The following is a set of guidelines for contributing to Indie Torrent and its packages, which are hosted in the [Indie Torrent Organization](https://github.com/indieTorrent) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to indieTorrent and its packages, which are hosted in the [indieTorrent Organization](https://github.com/indieTorrent) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 #### Table Of Contents
+
+[Organization name](#organization-name)
 
 [Styleguides](#styleguides)
   * [Git Commit Messages](#git-commit-messages)
   * [JavaScript Styleguide](#javascript-styleguide)
 
+## Organization name
+
+When using the name of the organization, make sure it is one of the following:
+  * `indieTorrent` => generally acceptable
+  * `indieTorrent.org` => generally acceptable
+  * `indieTorrent.org, LLC` => required in every legal context (such as in copyright notices)
 ## Styleguides
 
 ### Git Commit Messages
@@ -48,6 +56,8 @@ The following is a set of guidelines for contributing to Indie Torrent and its p
 ### JavaScript Styleguide
 
 All JavaScript must adhere to [JavaScript Airbnb Style](https://github.com/airbnb/javascript/).
+
+
 
 * Prefer the object spread operator (`{...anotherObj}`) to `Object.assign()`
 * Inline `export`s with expressions whenever possible
