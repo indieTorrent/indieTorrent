@@ -55,9 +55,7 @@ When using the name of the organization, make sure it is one of the following:
 
 ### JavaScript Styleguide
 
-All JavaScript must adhere to [JavaScript Airbnb Style](https://github.com/airbnb/javascript/).
-
-
+All JavaScript must adhere to [JavaScript Airbnb Style](https://github.com/airbnb/javascript/), including additional custom rules, which are defined in the `rules` object in the [.eslintrc.js file](https://github.com/indieTorrent/website-ui/blob/master/.eslintrc.js).
 
 * Prefer the object spread operator (`{...anotherObj}`) to `Object.assign()`
 * Inline `export`s with expressions whenever possible
