@@ -1,6 +1,6 @@
 # Contributing to indieTorrent projects
 
-The following is a set of guidelines for contributing to indieTorrent and its packages, which are hosted in the [indieTorrent Organization](https://github.com/indieTorrent) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of rules for contributing to indieTorrent and its packages, which are hosted in the [indieTorrent Organization](https://github.com/indieTorrent) on GitHub. These rules are considered when approving submitted contributions. Feel free to propose changes to this document in a pull request.
 
 #### Table Of Contents
 
